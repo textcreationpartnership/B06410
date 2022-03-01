@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto his Grace his Majesties High Commissioner and the right honourable the Estates of Parliament, the representation and petition of the brewers in and about Edinburgh.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06410</idno>
+            <idno type="STC">Wing U99I</idno>
+            <idno type="STC">ESTC R187654</idno>
+            <idno type="EEBO-CITATION">52529052</idno>
+            <idno type="OCLC">ocm 52529052</idno>
+            <idno type="VID">179181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179181)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto his Grace his Majesties High Commissioner and the right honourable the Estates of Parliament, the representation and petition of the brewers in and about Edinburgh.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ale --  Prices --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term>Brewers --  Scotland --  Edinburgh --  Economic conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:179181:1"/>
+            <head>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto His GRACE,</hi> HIS MAJESTIES HIGH COMMISSIONER And the Right Honourable the Eſtates of PARLIAMENT, The <hi>Repreſentation</hi> and <hi>Petition</hi> of the Brewers in and about <hi>Edinburgh.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THAT in the Moneth of <hi>July</hi> 1695. years, when the Par<g ref="char:EOLhyphen"/>liament, was about the giving to His Majeſty, an addi<g ref="char:EOLhyphen"/>tional Exciſe upon <hi>Ale</hi> &amp;c.</p>
+            <p>The Brewers; then Repreſented to His Majeſty's Commiſſioner, and the Honourable Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, the lowneſs of their condition, and that unleſs the price of <hi>Ale;</hi> were by them hightned to 32 <abbr>
+                  <hi>d.</hi>
+               </abbr> 
+               <hi>per Pint</hi> as the Minimum, they could not hold their Trade: Yet the Parliament, hopeing that the prices of Victual would quickly fall, was pleaſed to appoint that only 28 <abbr>
+                  <hi>d.</hi>
+               </abbr> As the Minimum, which is the greateſt price they ever could obtain for their ordinary ſelling <hi>Ale:</hi> Albeit they were not hindered nor Diſallow<g ref="char:EOLhyphen"/>ed by the Government to have raiſed it higher, yet without the Autho<g ref="char:EOLhyphen"/>rity of a Law, they could not; altho the prices of Victual and their bur<g ref="char:EOLhyphen"/>dens, did after that, Encreaſs greatly: Whereupon the Brewers, in the Moneth of <hi>March</hi> laſt, meaned themſelves to the Lords of His Majeſties Privy Council; But rheir Lordſhips did not then find themſelves Autho<g ref="char:EOLhyphen"/>riſed to appoint. 32 <abbr>
+                  <hi>d.</hi>
+               </abbr> for the <hi>Pint</hi> of <hi>Ale</hi> as the Minimum, nor to do o<g ref="char:EOLhyphen"/>therwiſe then the Parliament had done; albeit it was then too plain that 32 <abbr>
+                  <hi>d.</hi>
+               </abbr> was rather too low then to high a price for the ordinary ſelling <hi>Ale,</hi> Which experience has now too cleary demonſtrated, fora great many Brewers who were Subſtantial men, and Skilful of their Trade of brew<g ref="char:EOLhyphen"/>ing (all their Skil and Induſtry, notwithſtanding) are quit broke, put al<g ref="char:EOLhyphen"/>together from their Trade, and not only their own numerous Families
+<pb n="2" facs="tcp:179181:2"/>ſcattered, and expoſed to want: but alſo many poor Families of their Ser<g ref="char:EOLhyphen"/>vants, who depended upon them by their breaking; are reduced to miſery: and ſeveral Noblemen, and Gentlemen, diſappointed of the Payment of their Bear, which being now too truly underſtood by His <hi>Grace,</hi> His <hi>Majeſties High Commiſſioner,</hi> and the Right Honourable the <hi>Eſtates of Par<g ref="char:EOLhyphen"/>liament,</hi> they (as the Brewers are informed) deſign that the burden of the additional Exciſe on the Brewers; ſo unſuportable ſhall not ly on them after the Moneth of <hi>February</hi> next to come, which the Brewers deſire to acknowledge with all gratitude, as a mark of the Parliaments compaſſion to them, yet moſt humbly crave liberty, to Repreſent: That unleſs the price of their ordinary <hi>Ale</hi> be raiſed to 32 <abbr>
+                  <hi>d.</hi>
+               </abbr> 
+               <hi>per Pint</hi> as the Minimum, from the firſt day of <hi>September</hi> next to come 1698. to the firſt <hi>Match</hi> next to come in the year 1699. during the concurring and con<g ref="char:EOLhyphen"/>tinuing of the annexed and additional Exciſes; of 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> being in all with the Touns Impoſition 8 <abbr>
+                  <hi>d.</hi>
+               </abbr> upon each <hi>Pint</hi> of <hi>Ale,</hi> And that unleſs 28 <abbr>
+                  <hi>d.</hi>
+               </abbr> for the <hi>Pint</hi> of <hi>Ale,</hi> be by the Parliament appointed as the Minimum, after the laſt day of <hi>February</hi> next to come (if of neceſſity the annexed Exciſe, muſt be continued) It is utterly impoſſible for the Brewers, to hold their Trade, ſo as to pay their Victual and the Reſpective, Exciſes.</p>
+            <p>Now that 32 <abbr>
+                  <hi>d.</hi>
+               </abbr> 
+               <hi>per Pint</hi> from the 1ſt. of <hi>September</hi> to the 1ſt. of <hi>March</hi> both next to come, is the leaſt price can be appointed, is ſo plainly reaſo<g ref="char:EOLhyphen"/>nable that your Petitioners do not trouble the Parliament, with other argu<g ref="char:EOLhyphen"/>ments about it, then what are above Repreſented, and if the price of <hi>Ale</hi> after <hi>February</hi> next to come (the annexed Exciſe, being continued) be not 28 <abbr>
+                  <hi>d.</hi>
+               </abbr> 
+               <hi>per Pint,</hi> the Brewers are ſo far from being bettered by only eaſing them of the additional Exciſe, of 3 <abbr>
+                  <hi>d.</hi>
+               </abbr> 
+               <hi>per Pint,</hi> that they ſhall be in a worſe caſe then before: if the price of <hi>Ale</hi> ſhall fall 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> 
+               <hi>per Pint,</hi> eſpeci<g ref="char:EOLhyphen"/>ally ſeeing it is certain that the three pennies of annexed Exciſe, come in place of the former two <hi>Merks</hi> doth amount at leaſt to nine <hi>ſhilling</hi> and four <hi>pennies</hi> more. And the Brewers being told by ſome, that they muſt be ly<g ref="char:EOLhyphen"/>able to the annexed Exciſe, after the Moneth of <hi>February</hi> next to come whither they be able or not ſeing (as is alleadged) it cannot be taken off now, They do deſire and earneſtly intrate, that in the moſt accurat way, that can be deviſed an experiment by order of Authority may be made, by cauſing brew a quantity of the ſeveral kinds of Malt to be pro<g ref="char:EOLhyphen"/>cured and brown by any truſty perſon or perſons, (tho not trading) but Skilful in the way of brewing, and that at the ſight and occular inſepction of ſuch as ſhall be Authorifed for that effect: that the real product of Malt being known, it may be truly underſtood whither the Brewers be able or not to ſell their <hi>Ale</hi> under the rates deſired in the preſent circumſtances: And then to all men who will ſoberly allow a litle of their patience and ſerious thoughts upon this weighty (tho too litle pondered) affair, which ſo much concerns both the King and Country, it will evidently appear that the Brewers are not able by their Trade of brewing to pay their Victuall and Exciſes unleſs the price of <hi>Ale</hi> be hightned as above And by impartial reckoning it will be found that the Exciſes have for theſe ſeveral years bygone been payed not by the drinkers (as is often unconſi<g ref="char:EOLhyphen"/>deratly Alleadged) but truly and indeed by the Brewers, and that not out of any profite of their Trade, but out of their own privat Stocks and for<g ref="char:EOLhyphen"/>tuns
+<pb n="3" facs="tcp:179181:2"/>all which to a demonſtration is evident from the computation follow<g ref="char:EOLhyphen"/>ing <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <head>Payed by the Brewer,</head>
+                  <row>
+                     <cell>To the Boll of Malt, now ſelling at 12. and 13. <hi>lib. per Boll,</hi> Reckoned here only to</cell>
+                     <cell>9.</cell>
+                     <cell>10.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>Annexed-Exciſe</cell>
+                     <cell>1.</cell>
+                     <cell>16.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>Towns Impoſition</cell>
+                     <cell>1.</cell>
+                     <cell>04.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>Houſe-rent</cell>
+                     <cell>0.</cell>
+                     <cell>06.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>Couperadge</cell>
+                     <cell>0.</cell>
+                     <cell>02.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>Maintainance of Servants</cell>
+                     <cell>0.</cell>
+                     <cell>06.</cell>
+                     <cell>8.</cell>
+                  </row>
+                  <row>
+                     <cell>Coal and Candle</cell>
+                     <cell>0.</cell>
+                     <cell>13.</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>Penny <hi>per</hi> pound Drink-Money, and Expences of inbringing</cell>
+                     <cell>1.</cell>
+                     <cell>00.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>Maintainance of Brewing-Looms, ſuch as Coper, Coolers, Fats, Floats, Wortſtones, Gantrees. &amp;c.</cell>
+                     <cell>0.</cell>
+                     <cell>06.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell role="total">
+                        <hi>Summa,</hi>
+                     </cell>
+                     <cell>15.</cell>
+                     <cell>04.</cell>
+                     <cell>0.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Received by the Brewer,</head>
+                  <row>
+                     <cell>
+                        <hi>Per</hi> 18. Gallons of 28. <abbr>
+                           <hi>d.</hi>
+                        </abbr> 
+                        <hi>Ale.</hi> which is more than can be drawn, albeit they Survey to the Rate of 20 Gallons moſt unreaſonably, and for the 18. Gallons ſup<g ref="char:EOLhyphen"/>poſed, tho not got, the Brewer gets only</cell>
+                     <cell>14.</cell>
+                     <cell>08.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Per</hi> Draff, Barm, and Dreg, according to the preſent rate</cell>
+                     <cell>00.</cell>
+                     <cell>14.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Per</hi> Ballance of Loſs</cell>
+                     <cell>00.</cell>
+                     <cell>02.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell role="total">
+                        <hi>Summa,</hi>
+                     </cell>
+                     <cell>15.</cell>
+                     <cell>04.</cell>
+                     <cell>0.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>By which Computation, Which is as candid as can be made, and which cannot de quarrelled by any unbyaſſed Perſon; It plainly appears, That the Brewers have been, and (ſo long as the Victual continues Dear) will be Loſers, beſides their Hazard and frequent Loſs by bad Debt, Re<g ref="char:EOLhyphen"/>turned; Run out, and Spoilt <hi>Ale,</hi> the Taxes which they pay to the Town for their Trade, and other great Riſques: And when the Victual ſhall fall cheaper, they muſt draw a far ſhorter length and quantity of <hi>Ale,</hi> and it is notourly known, that no Brewer can well draw 18 <hi>Gallons</hi> of any of the beſt <hi>Scots</hi> Barly at preſent of ſuch Drink as can keep for the neceſſary time of Runing for Sale in a <hi>Tavern,</hi> or <hi>Ale-houſe;</hi> Albeit ſome endea<g ref="char:EOLhyphen"/>voured to get, and may be even got of the beſt <hi>Engliſh</hi> Victual ſome<g ref="char:EOLhyphen"/>time 20 <hi>Gallons,</hi> whereof a great part was often ſpoiled, becauſe of its Weakneſs: But the Tacks-men, and their Servants, taking advan<g ref="char:EOLhyphen"/>tage, that 20 <hi>Gallons</hi> had been drawn of the beſt <hi>Engliſh</hi> Victual, they have never miſſed ſtill to Survey to 20 <hi>Gallons</hi> for each Boll, even of the worſt <hi>Scots</hi> Victual, by which their Surveys are made up, as now they be. So many Brewers being already broken, theſe who ſtill are wreſtle<g ref="char:EOLhyphen"/>ing to hold ſo much Credit, as to keep their numerous Families together, find themſelves neceſſitated, now when they have an oppurtunity to lay their ſtaitened Caſe before <hi>His Grace His Majeſties High Commiſſioner,</hi> And the <hi>Right Honourable the Eſtates of Parliament,</hi> their great Patriots,
+<pb n="4" facs="tcp:179181:3"/>from whoſe Wiſdom and Care, only they can expect ſeaſonable and ef<g ref="char:EOLhyphen"/>fectual Relief.</p>
+            <p>
+               <hi>May it therefore pleaſe</hi> Your Grace, <hi>And</hi> Right Honourable Eſtates of Parliament, <hi>To take Your Petitioners ſtraitned Caſe unto Your ſerious Conſideration: And for preventing the ruine of ſo many Men, and their numerous Families, who have not only hi<g ref="char:EOLhyphen"/>therto payed ſo great Supplys for the Service of their King and Country; But have and ſtill do Maintain a very conſiderable num<g ref="char:EOLhyphen"/>ber of Servants, and their Families, and keep them from Ster<g ref="char:EOLhyphen"/>ving, Begging, or being troubleſome to the Country. Graci<g ref="char:EOLhyphen"/>ouſly to appoint that</hi> 32 <hi>pennies</hi> Scots per Pint, <hi>ſhall be the</hi> Minimum <hi>for the Price of the</hi> Ale, <hi>from the firſt of</hi> Septem<g ref="char:EOLhyphen"/>ber <hi>to the firſt of</hi> March <hi>both next to come, dureing the con<g ref="char:EOLhyphen"/>curring, and continuing of the Annexed and Additional Exciſes, which with the Towns Impoſition make in all</hi> 8. <abbr>d.</abbr> 
+               <hi>of Ezciſe upon each Pint of</hi> Ale: <hi>And to appoint, that from the firſt of</hi> March <hi>next to come, dureing the continuing of the Annexed Exciſe, that</hi> 28. <abbr>d.</abbr> per Pint, <hi>ſhall be the</hi> Minimum <hi>in and about</hi> Edinburgh, <hi>And to Authorize the</hi> Lords of His Maje<g ref="char:EOLhyphen"/>ſties Privy Council, <hi>to hear and Rectify to the Brewers, what they ſhall hereafter ſee greivous to them, ſo far as their Lordſhips ſhall find juſt, without prejudice to</hi> His Majeſty, <hi>and to Im<g ref="char:EOLhyphen"/>power Their Lordſhips to Raiſe and Low the Prices of</hi> Ale, <hi>as they ſhall find Cauſe.</hi>
+            </p>
+            <closer>
+               <signed>And Your Petitioners ſhall Pray.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
